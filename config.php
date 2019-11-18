@@ -18,13 +18,13 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
-echo 'h123456666i98+';
+echo 'h123456666hghghgfi98+';
 
 $CFG->wwwroot   = 'https://miss.moe/training';
 $CFG->dataroot  = '/home/admin/web/miss.moe/public_html/moodledata';
 //$CFG->dataroot  = '/home/admin/web/miss.moe/moodledata';
 $CFG->admin     = 'admin';
-
+gf
 $CFG->directorypermissions = 0777;
 
 require_once(__DIR__ . '/lib/setup.php');
