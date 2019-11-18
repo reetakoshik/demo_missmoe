@@ -18,8 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
-echo 'teet';
-
+echo 'hi';
 $CFG->wwwroot   = 'https://miss.moe/training';
 $CFG->dataroot  = '/home/admin/web/miss.moe/public_html/moodledata';
 //$CFG->dataroot  = '/home/admin/web/miss.moe/moodledata';
