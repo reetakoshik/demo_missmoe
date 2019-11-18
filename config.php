@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
-echo 'h123456666hghghgfi98+';
+echo 'jenkisupdate+';
 
 $CFG->wwwroot   = 'https://miss.moe/training';
 $CFG->dataroot  = '/home/admin/web/miss.moe/public_html/moodledata';
