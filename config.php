@@ -20,7 +20,7 @@ $CFG->dboptions = array (
 
 
 $CFG->wwwroot   = 'http://115.166.143.10:81/missmoemoodle36';
-$CFG->dataroot  = '/var/www/moodledata36/missmoemoodledata';
+$CFG->dataroot  = '/var/www/missmoemoodledata';
 //$CFG->dataroot  = '/home/admin/web/miss.moe/moodledata';
 $CFG->admin     = 'admin';
 
